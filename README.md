@@ -12,9 +12,9 @@ Tujuan saya adalah menjadi **Front-End Developer yang handal**, yang mampu mengu
 - Membuat website portfolio pribadi dengan Laravel  
 
 📫 **Hubungi saya di:**
-- Instagram: [@iksanbaigofik](https://instagram.com/iksanbaigofik)
-- LinkedIn: [linkedin.com/in/iksanbaigofik](https://linkedin.com/in/iksanbaigofik)
-- Email: [iksan@example.com](mailto:iksan@example.com)
+- Instagram: [@iiksann._](https://instagram.com/iiksann._)
+- LinkedIn: [linkedin.com/in/m-iksanul-baigofik](https://linkedin.com/in/m-iksanul-baigofik)
+- Email: [ihsan.baighofiq12@gmail.com](mailto:ihsan.baighofiq12@gmail.com)
 
 ---
 
