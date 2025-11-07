@@ -1,4 +1,4 @@
-## 👋 Halo, aku Iksan Baigofik!
+## 👋 Halo, aku M. Iksanul Baigofik!
 
 Saya adalah seorang **UI/UX Designer** yang telah mendalami dunia desain antarmuka dan pengalaman pengguna selama **2 tahun**.  
 Selama perjalanan itu, saya belajar bagaimana membuat tampilan yang tidak hanya menarik secara visual, tetapi juga mudah digunakan dan berfokus pada kenyamanan pengguna.
